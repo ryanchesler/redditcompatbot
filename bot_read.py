@@ -68,7 +68,7 @@ else:
 reddit = praw.Reddit(client_id='K_aWyydKQt1VZw' , 
 client_secret='a0B1U3-brxPH8SwOcDodkuVYZFE',
 username='ryches',
-password='uY1IFTMv81Cm',
+password='',
 user_agent = 'compatibilitybot.1')
 subreddit = reddit.subreddit("pythonforengineers")
 partnumber = []
